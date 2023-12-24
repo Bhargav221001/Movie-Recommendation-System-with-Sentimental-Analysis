@@ -20,7 +20,7 @@ I've developed a similar application called "The Movie Cinema" which supports al
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/bhargav2210001/Movie-Recommendation-System-with-Sentimental-Analysis
+Source Code: https://github.com/bhargav221001/Movie-Recommendation-System-with-Sentimental-Analysis
 
 ## How to get the API key?
 
